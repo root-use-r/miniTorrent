@@ -45,7 +45,7 @@ Start client using - ​ ./client <CLIENT_IP>:<UPLOAD_PORT> <TRACKER_IP_1>:<TRAC
 
 SHARING a local file:
 
-Command ​ : s ​ hare <local file path> <filename>.mtorrent
+Command  : share <local file path> <filename>.mtorrent
 
 DOWNLOADING a file :
 
